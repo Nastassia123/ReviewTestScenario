@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="433daffc-ba68-486d-a7e8-6ce816189b79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXVhizB1l4RNqPC66IoXL8PODc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.VerifyProductIsAddedToCard.testAdditionProductToCard">
+    <configuration name="BasePageClass.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="abstractPackage" />
+      <option name="MAIN_CLASS_NAME" value="abstractPackage.BasePageClass" />
+      <option name="METHOD_NAME" value="setUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPage.openHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages" />
+      <option name="MAIN_CLASS_NAME" value="pages.MainPage" />
+      <option name="METHOD_NAME" value="openHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPage.openPageEditor" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages" />
+      <option name="MAIN_CLASS_NAME" value="pages.MainPage" />
+      <option name="METHOD_NAME" value="openPageEditor" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyProductIsAddedToCard.testAdditionProductToCard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.VerifyProductIsAddedToCard" />
+      <option name="METHOD_NAME" value="testAdditionProductToCard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VerifyProductIsAddedToCard.testAdditionProductToCard" />
+        <item itemvalue="TestNG.MainPage.openHomePage" />
+        <item itemvalue="TestNG.BasePageClass.setUp" />
+        <item itemvalue="TestNG.MainPage.openPageEditor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="433daffc-ba68-486d-a7e8-6ce816189b79" name="Default Changelist" comment="" />
+      <created>1584985547674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584985547674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584987139824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584987139824" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1584987417639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584987417639" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584987137938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584987137938" />
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1585040628143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585040628143" />
+    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1585040628143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585040628143" />
+    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1585040628143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585040628143" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1585040628143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585040628143" />
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom" timestamp="1584987740294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584987740294" />
+    <state width="1323" height="214" key="GridCell.Tab.1.center" timestamp="1584987740294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584987740294" />
+    <state width="1323" height="214" key="GridCell.Tab.1.left" timestamp="1584987740294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584987740294" />
+    <state width="1323" height="214" key="GridCell.Tab.1.right" timestamp="1584987740294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584987740294" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/VerifyProductIsAddedToCard.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
